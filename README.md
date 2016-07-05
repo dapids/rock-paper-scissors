@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# VanillaJS Rock-Paper-Scissors
 
 ## Create a new user
 ```
